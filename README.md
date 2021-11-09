@@ -6,7 +6,7 @@
 
 The main objective is to perform data cleaning, perform analysis for testing the Influences of Global Warming on temperature and humidity, and finally put forth a conclusion.
 
-Project Blog: 
+Project Blog: https://mukund-meteorological-data.blogspot.com/2021/11/performing-analysis-of-meteorological.html
 
 **(ii) Recognizing Handwritten Digits with Scikit-Learn**
 
